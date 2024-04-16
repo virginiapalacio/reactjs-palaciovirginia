@@ -1,0 +1,19 @@
+.colorTituloPrincipal {
+  color:black;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+.textoNavbar {
+  font-size: 12px;
+}
+.nav-item{
+  color: #000000 !important;
+}
+.nav-item:hover {
+  color: #000000 ;
+  background-color: #00ccff;
+  padding: 6px;
+  transition: 0.3s ;
+  border-radius: 3%;
+}
