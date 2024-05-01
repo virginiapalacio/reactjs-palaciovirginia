@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "Socks Aquí te tengo tu cariñito",
+        "descripcion": "Soquetes de algodón premium Talle único - abarca del 36 al 44",
+        "precio": 2500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/358d29c019d38d393db2a62dc06b17d48e7cc8d400baf556524f9bbfe203de2230223.jpg",
+        "stock": 10,
+        "categoria": "Soquetes"
+    },
+    {
+        "id": 2,
+        "nombre": "Socks Sakura Card Captors",
+        "descripcion": "Soquetes de algodón premium Talle único - abarca del 36 al 44",
+        "precio": 2500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e119806bf15c3416e6fa456a0979382499cf557b9f4be2d73aa8562ce23126de30223.jpg",
+        "stock": 10,
+        "categoria": "Soquetes"
+    },
+    {
+        "id": 3,
+        "nombre": "Socks Alien Pizza",
+        "descripcion": "Socks de algodón premium Talle único - abarca del 36 al 44",
+        "precio": 2500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9998a7005ee0165f1af6cf0462e00694bf5db80c108a1d67b563938db55ee68730223.jpeg",
+        "stock": 10,
+        "categoria": "Soquetes"
+    },
+    {
+        "id": 4,
+        "nombre": "Socks Dexter ",
+        "descripcion": "Socks de algodón premium Talle único - abarca del 36 al 44",
+        "precio": 2500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1b1d20850646279b915e4c0f59cce1cb0e6e12fe1b1b31547c2f5b00ce55e0a830223.jpeg",
+        "stock": 10,
+        "categoria": "Soquetes"
+    },
+    {
+        "id": 5,
+        "nombre": "Beanie Balenciaga blanco",
+        "descripcion": "Gorro Balenciaga blanco con negro",
+        "precio": 10000,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/226/300/products/ab362a37-0d22-4173-82ba-9aa546fe2b10-29a68c4afe4cca3eb616607432061027-480-0.webp",
+        "stock": 1,
+        "categoria": "Gorras"
+    },
+    {
+        "id": 6,
+        "nombre": "Beanie LA",
+        "descripcion": "Gorro Los Angeles negro con blanco",
+        "precio": 10000,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/226/300/products/1516c203-6714-4652-a02f-722360cdec8f-c7f6a502ce1600926f16497064745878-480-0.webp",
+        "stock": 1,
+        "categoria": "Gorras"
+    },
+    {
+        "id": 7,
+        "nombre": "Gorra NY silver",
+        "descripcion": "Gorra NY",
+        "precio": 14000,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/226/300/products/43b89fec-bfc4-49d2-ad5e-e00e728d0cfe-c55cb6f055b41d231d16571368664422-640-0.webp",
+        "stock": 1,
+        "categoria": "Gorras"
+    },
+    {
+        "id": 8,
+        "nombre": "Gorra NY azul índigo",
+        "descripcion": "Gorra NY azul índigo",
+        "precio": 14000,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/226/300/products/8f9654cd-c692-4b05-857e-86a01f7559621-c3ebf3ab45dd2c91d716873828405687-480-0.webp",
+        "stock": 1,
+        "categoria": "Gorras"
+    },
+    {
+        "id": 9,
+        "nombre": "Medias Bart Glucosa",
+        "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
+        "precio": 3500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5406c39c37582bd97ec22537f0bb6961cf1f68fea8affa1e4b1643ce150c22aa30223.jpg",
+        "stock": 1,
+        "categoria": "Medias"
+    },
+    {
+        "id": 10,
+        "nombre": "Medias Nike rosa",
+        "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
+        "precio": 3500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/efcddfac4ecb1cc729e62b181ec13ea1c5c9456a0784f4fa3c964a57302cccde30223.jpeg",
+        "stock": 3,
+        "categoria": "Medias"
+    },
+    {
+        "id": 11,
+        "nombre": "Medias Pepsi",
+        "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
+        "precio": 3500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/12fa703ccd7b492f9a33a7aa740a4956c134c8e847e5089c353a7c269a88dd3130223.jpeg",
+        "stock": 2,
+        "categoria": "Medias"
+    },
+    {
+        "id": 12,
+        "nombre": "Medias Nike aqua",
+        "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
+        "precio": 3500,
+        "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e2d077ba29020d7def212e1b5d2929959cc92a9e1abcaf2ace72ffea7ea6bbdb30223.jpeg",
+        "stock": 2,
+        "categoria": "Medias"
+    }
+]

@@ -1,3 +1,4 @@
+import { Link, NavLink } from "react-router-dom";
 import logo from "../assets/images/logo-mandy.png";
 import CartWidget from "./CartWidget";
 
@@ -7,9 +8,9 @@ const NavBar = () => {
             <div className="row bg-black p-3">
                 <div className="col"></div>
                 <div className="col-md text-center">
-                    <a href="#">
+                    <Link to={"/"}>
                         <img src={logo} alt="MandyRock" width={130} />
-                    </a>
+                    </Link>
                 </div>
                 <div className="col d-flex align-items-center justify-content-end">
                     <CartWidget />
@@ -19,16 +20,16 @@ const NavBar = () => {
                 <div className="col">
                     <ul className="nav justify-content-center">
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Home</a>
+                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/"}>Home</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Medias</a>
+                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/Medias"}>Medias</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Soquetes</a>
+                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/Soquetes"}>Soquetes</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-secondary text-uppercase textoNavbar" href="#">Gorras</a>
+                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/Gorras"}>Gorras</NavLink>
                         </li>
                     </ul>
                 </div>
