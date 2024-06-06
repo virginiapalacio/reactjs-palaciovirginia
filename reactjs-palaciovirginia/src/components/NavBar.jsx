@@ -9,7 +9,7 @@ const NavBar = () => {
                 <div className="col"></div>
                 <div className="col-md text-center">
                     <Link to={"/"}>
-                        <img src={logo} alt="MandyRock" width={130} />
+                        <img src={logo} alt="MandyRock" width={200} />
                     </Link>
                 </div>
                 <div className="col d-flex align-items-center justify-content-end">
@@ -23,13 +23,13 @@ const NavBar = () => {
                             <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/"}>Home</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/Medias"}>Medias</NavLink>
+                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/soquetes"}>Soquetes</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/Soquetes"}>Soquetes</NavLink>
+                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/medias"}>Medias</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/Gorras"}>Gorras</NavLink>
+                            <NavLink className="nav-link text-secondary text-uppercase textoNavbar" to={"/category/gorras"}>Gorras</NavLink>
                         </li>
                     </ul>
                 </div>

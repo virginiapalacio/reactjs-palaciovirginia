@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "num-id": 1,
         "nombre": "Socks Aquí te tengo tu cariñito",
         "descripcion": "Soquetes de algodón premium Talle único - abarca del 36 al 44",
         "precio": 2500,
@@ -9,7 +9,7 @@
         "categoria": "Soquetes"
     },
     {
-        "id": 2,
+        "num-id": 2,
         "nombre": "Socks Sakura Card Captors",
         "descripcion": "Soquetes de algodón premium Talle único - abarca del 36 al 44",
         "precio": 2500,
@@ -18,7 +18,7 @@
         "categoria": "Soquetes"
     },
     {
-        "id": 3,
+        "num-id": 3,
         "nombre": "Socks Alien Pizza",
         "descripcion": "Socks de algodón premium Talle único - abarca del 36 al 44",
         "precio": 2500,
@@ -27,7 +27,7 @@
         "categoria": "Soquetes"
     },
     {
-        "id": 4,
+        "num-id": 4,
         "nombre": "Socks Dexter ",
         "descripcion": "Socks de algodón premium Talle único - abarca del 36 al 44",
         "precio": 2500,
@@ -36,7 +36,7 @@
         "categoria": "Soquetes"
     },
     {
-        "id": 5,
+        "num-id": 5,
         "nombre": "Beanie Balenciaga blanco",
         "descripcion": "Gorro Balenciaga blanco con negro",
         "precio": 10000,
@@ -45,7 +45,7 @@
         "categoria": "Gorras"
     },
     {
-        "id": 6,
+        "num-id": 6,
         "nombre": "Beanie LA",
         "descripcion": "Gorro Los Angeles negro con blanco",
         "precio": 10000,
@@ -54,7 +54,7 @@
         "categoria": "Gorras"
     },
     {
-        "id": 7,
+        "num-id": 7,
         "nombre": "Gorra NY silver",
         "descripcion": "Gorra NY",
         "precio": 14000,
@@ -63,7 +63,7 @@
         "categoria": "Gorras"
     },
     {
-        "id": 8,
+        "num-id": 8,
         "nombre": "Gorra NY azul índigo",
         "descripcion": "Gorra NY azul índigo",
         "precio": 14000,
@@ -72,7 +72,7 @@
         "categoria": "Gorras"
     },
     {
-        "id": 9,
+        "num-id": 9,
         "nombre": "Medias Bart Glucosa",
         "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
         "precio": 3500,
@@ -81,7 +81,7 @@
         "categoria": "Medias"
     },
     {
-        "id": 10,
+        "num-id": 10,
         "nombre": "Medias Nike rosa",
         "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
         "precio": 3500,
@@ -90,7 +90,7 @@
         "categoria": "Medias"
     },
     {
-        "id": 11,
+        "num-id": 11,
         "nombre": "Medias Pepsi",
         "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
         "precio": 3500,
@@ -99,7 +99,7 @@
         "categoria": "Medias"
     },
     {
-        "id": 12,
+        "num-id": 12,
         "nombre": "Medias Nike aqua",
         "descripcion": "Medias algodón premium - Talle único - Abarca del 36 al 44",
         "precio": 3500,
