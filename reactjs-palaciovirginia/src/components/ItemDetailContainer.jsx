@@ -12,7 +12,7 @@ const ItemDetailContainer = () => {
       // Acceso a un Producto por ID en Firestore
     useEffect(() => {
         const db = getFirestore();
-        const docRef = doc(db, "items", id);
+        const docRef = doc(db, "productos", id);
         getDoc(docRef).then(snapShot => {
             if (snapShot.exists()) {
                 setItem({id:snapShot.id, ...snapShot.data()});
